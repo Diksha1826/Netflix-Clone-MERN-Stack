@@ -18,7 +18,6 @@ module.exports.addToLikedMovies = async(req , res)=>{
         return res.json({msg: "Movie Added Successfully"});
     } catch (error) {
         return res.json({ msg: "Error adding movie"});
-    //    console.log(error) 
     }
 };
 
