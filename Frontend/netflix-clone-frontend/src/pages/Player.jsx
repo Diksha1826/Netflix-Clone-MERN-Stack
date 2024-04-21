@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import {BsArrowLeft} from 'react-icons/bs';
-import video from '../asserts/home.jpg';
+import video from '../asserts/video.mp4';
 import {useNavigate} from 'react-router-dom';
 
 

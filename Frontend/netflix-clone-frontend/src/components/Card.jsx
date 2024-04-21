@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import styled from "styled-components";
 import {useNavigate} from "react-router-dom";
-import video from '../asserts/home.jpg';
+import video from '../asserts/video.mp4';
 import {IoPlayCircleSharp} from "react-icons/io5";
 import {RiThumbDownFill , RiThumbUpFill} from "react-icons/ri";
 import {BsCheck} from "react-icons/bs";
